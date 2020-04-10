@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2020-04-10T16:59:13Z" finished-at="2020-04-10T16:59:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2020-04-10T16:59:13Z" finished-at="2020-04-10T16:59:13Z">
+      <class name="Adminui.Adminui.Addd">
+        <test-method status="PASS" signature="mm()[pri:0, instance:Adminui.Adminui.Addd@706a04ae]" name="mm" is-config="true" duration-ms="6" started-at="2020-04-10T16:59:13Z" finished-at="2020-04-10T16:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mm -->
+        <test-method status="PASS" signature="rr()[pri:0, instance:Adminui.Adminui.Addd@706a04ae]" name="rr" duration-ms="4" started-at="2020-04-10T16:59:13Z" finished-at="2020-04-10T16:59:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rr -->
+      </class> <!-- Adminui.Adminui.Addd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
